@@ -20,5 +20,3 @@ A aplicação consiste em uma "raquete" personalizada que usa o cursor do mouse 
 - HTML / CSS / JS 
 - Bootstrap 4
 - Font awesome
-# Como executar o projeto
-### https://gibadeives.github.io/Mata-Mosquito/index.html
