@@ -21,4 +21,4 @@ A aplicação consiste em uma "raquete" personalizada que usa o cursor do mouse 
 - Bootstrap 4
 - Font awesome
 # Como executar o projeto
-### https://github.com/gibadeives/Mata-Mosquito/index.html
+### https://gibadeives.github.io/Mata-Mosquito/index.html
